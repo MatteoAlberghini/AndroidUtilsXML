@@ -1,0 +1,8 @@
+<ImageView
+        android:id="@+id/someID"
+        android:layout_height="wrap_content"
+        android:layout_width="0dp"
+        android:adjustViewBounds="true"
+        android:cropToPadding="true"
+        android:background="@drawable/transparent_image_bg"
+        android:scaleType="centerInside"/>
